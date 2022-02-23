@@ -1,0 +1,9 @@
+2021-10-16 01:25:38 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CUSTOMER" not found; SQL statement:
+select customer0_.id as id1_0_, customer0_.address as address2_0_, customer0_.date_created as date_cre3_0_, customer0_.email as email4_0_, customer0_.last_name as last_nam5_0_, customer0_.password as password6_0_, customer0_.status as status7_0_, customer0_.user_name as user_nam8_0_ from customer customer0_ [42102-200]
+2021-10-16 01:25:41 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CUSTOMER" not found; SQL statement:
+select customer0_.id as id1_0_, customer0_.address as address2_0_, customer0_.date_created as date_cre3_0_, customer0_.email as email4_0_, customer0_.last_name as last_nam5_0_, customer0_.password as password6_0_, customer0_.status as status7_0_, customer0_.user_name as user_nam8_0_ from customer customer0_ [42102-200]
+2021-10-16 01:29:18 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CUSTOMER" not found; SQL statement:
+select customer0_.id as id1_0_, customer0_.address as address2_0_, customer0_.date_created as date_cre3_0_, customer0_.email as email4_0_, customer0_.last_name as last_nam5_0_, customer0_.password as password6_0_, customer0_.status as status7_0_, customer0_.user_name as user_nam8_0_ from customer customer0_ [42102-200]
