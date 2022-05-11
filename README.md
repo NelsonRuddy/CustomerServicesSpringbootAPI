@@ -1,4 +1,4 @@
-<h1 align="center">:computer: Customer Service Springboot Api (consultec):computer:</h1> 
+<h1 align="center">:computer: Customer Service Springboot Api:computer:</h1> 
 
 <p align="center">This is a customer services example where we can see how to implement a CRUD API using JPA repository and DAO patterm  using MapStruct library and using best springboot practices </p>
 
